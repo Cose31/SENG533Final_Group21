@@ -1,0 +1,157 @@
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director executeDirector
+WARNING: Power communication address specified but no Power Communicator class provided. No power measurements will be performed.
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director executeDirector
+INFO: Load Generator Thread Count set to 128
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director executeDirector
+INFO: URL connection timout set to 5000 ms
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director executeDirector
+INFO: Using Lua Script: /home/ubuntu/TeaStore/examples/httploadgenerator/teastore_browse.lua
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director process
+INFO: Read 120 Arrival Rate Tuples
+Load Generator sent: ok
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director process
+INFO: Arrival Rates sent to Load Generator(s).
+Load Generator sent: ok
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director process
+INFO: Thread Count sent to Load Generator(s): 128
+Load Generator sent: ok
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director process
+INFO: URL connection timeout sent to Load Generator(s): 5000
+Load Generator sent: ok
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director process
+INFO: Contents of script sent to Load Generator: /home/ubuntu/TeaStore/examples/httploadgenerator/teastore_browse.lua
+Apr 14, 2026 1:24:24 AM tools.descartes.dlim.httploadgenerator.runner.Director process
+INFO: Starting Load Generation
+Beginning Run @1776129865159(14.04.2026;01:24:25159)
+Target Time = 0.5; Load Intensity = 0.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 1.5; Load Intensity = 1.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 2.5; Load Intensity = 2.0; #Success = 3; #Failed = 0; #Dropped = 0
+Target Time = 3.5; Load Intensity = 2.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 4.5; Load Intensity = 3.0; #Success = 4; #Failed = 0; #Dropped = 0
+Target Time = 5.5; Load Intensity = 4.0; #Success = 3; #Failed = 0; #Dropped = 0
+Target Time = 6.5; Load Intensity = 5.0; #Success = 5; #Failed = 0; #Dropped = 0
+Target Time = 7.5; Load Intensity = 6.0; #Success = 7; #Failed = 0; #Dropped = 0
+Target Time = 8.5; Load Intensity = 7.0; #Success = 6; #Failed = 0; #Dropped = 0
+Target Time = 9.5; Load Intensity = 7.0; #Success = 7; #Failed = 0; #Dropped = 0
+Target Time = 10.5; Load Intensity = 8.0; #Success = 8; #Failed = 0; #Dropped = 0
+Target Time = 11.5; Load Intensity = 9.0; #Success = 8; #Failed = 0; #Dropped = 0
+Target Time = 12.5; Load Intensity = 10.0; #Success = 9; #Failed = 0; #Dropped = 0
+Target Time = 13.5; Load Intensity = 11.0; #Success = 13; #Failed = 0; #Dropped = 0
+Target Time = 14.5; Load Intensity = 12.0; #Success = 10; #Failed = 0; #Dropped = 0
+Target Time = 15.5; Load Intensity = 12.0; #Success = 11; #Failed = 0; #Dropped = 0
+Target Time = 16.5; Load Intensity = 13.0; #Success = 15; #Failed = 0; #Dropped = 0
+Target Time = 17.5; Load Intensity = 14.0; #Success = 13; #Failed = 0; #Dropped = 0
+Target Time = 18.5; Load Intensity = 15.0; #Success = 6; #Failed = 0; #Dropped = 0
+Target Time = 19.5; Load Intensity = 16.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 20.5; Load Intensity = 17.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 21.5; Load Intensity = 17.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 22.5; Load Intensity = 18.0; #Success = 0; #Failed = 0; #Dropped = 0
+Target Time = 23.5; Load Intensity = 19.0; #Success = 12; #Failed = 0; #Dropped = 0
+Target Time = 24.5; Load Intensity = 20.0; #Success = 17; #Failed = 0; #Dropped = 0
+Target Time = 25.5; Load Intensity = 21.0; #Success = 17; #Failed = 0; #Dropped = 0
+Target Time = 26.5; Load Intensity = 22.0; #Success = 17; #Failed = 0; #Dropped = 0
+Target Time = 27.5; Load Intensity = 22.0; #Success = 19; #Failed = 0; #Dropped = 0
+Target Time = 28.5; Load Intensity = 23.0; #Success = 18; #Failed = 0; #Dropped = 0
+Target Time = 29.5; Load Intensity = 24.0; #Success = 20; #Failed = 0; #Dropped = 0
+Target Time = 30.5; Load Intensity = 25.0; #Success = 22; #Failed = 0; #Dropped = 0
+Target Time = 31.5; Load Intensity = 26.0; #Success = 59; #Failed = 0; #Dropped = 0
+Target Time = 32.5; Load Intensity = 27.0; #Success = 10; #Failed = 0; #Dropped = 0
+Target Time = 33.5; Load Intensity = 27.0; #Success = 5; #Failed = 0; #Dropped = 0
+Target Time = 34.5; Load Intensity = 28.0; #Success = 50; #Failed = 0; #Dropped = 0
+Target Time = 35.5; Load Intensity = 29.0; #Success = 22; #Failed = 0; #Dropped = 0
+Target Time = 36.5; Load Intensity = 30.0; #Success = 14; #Failed = 0; #Dropped = 0
+Target Time = 37.5; Load Intensity = 31.0; #Success = 20; #Failed = 5; #Dropped = 0
+Target Time = 38.5; Load Intensity = 32.0; #Success = 22; #Failed = 2; #Dropped = 0
+Target Time = 39.5; Load Intensity = 32.0; #Success = 17; #Failed = 2; #Dropped = 0
+Target Time = 40.5; Load Intensity = 33.0; #Success = 17; #Failed = 8; #Dropped = 0
+Target Time = 41.5; Load Intensity = 34.0; #Success = 23; #Failed = 6; #Dropped = 0
+Target Time = 42.5; Load Intensity = 35.0; #Success = 29; #Failed = 0; #Dropped = 0
+Target Time = 43.5; Load Intensity = 36.0; #Success = 26; #Failed = 0; #Dropped = 0
+Target Time = 44.5; Load Intensity = 37.0; #Success = 19; #Failed = 0; #Dropped = 0
+Target Time = 45.5; Load Intensity = 37.0; #Success = 25; #Failed = 0; #Dropped = 0
+Target Time = 46.5; Load Intensity = 38.0; #Success = 30; #Failed = 0; #Dropped = 0
+Target Time = 47.5; Load Intensity = 39.0; #Success = 29; #Failed = 0; #Dropped = 0
+Target Time = 48.5; Load Intensity = 40.0; #Success = 25; #Failed = 0; #Dropped = 0
+Target Time = 49.5; Load Intensity = 41.0; #Success = 19; #Failed = 0; #Dropped = 0
+Target Time = 50.5; Load Intensity = 42.0; #Success = 25; #Failed = 0; #Dropped = 0
+Target Time = 51.5; Load Intensity = 42.0; #Success = 29; #Failed = 0; #Dropped = 0
+Target Time = 52.5; Load Intensity = 43.0; #Success = 29; #Failed = 0; #Dropped = 0
+Target Time = 53.5; Load Intensity = 44.0; #Success = 26; #Failed = 0; #Dropped = 0
+Target Time = 54.5; Load Intensity = 45.0; #Success = 19; #Failed = 0; #Dropped = 5
+Target Time = 55.5; Load Intensity = 46.0; #Success = 25; #Failed = 0; #Dropped = 20
+Target Time = 56.5; Load Intensity = 47.0; #Success = 30; #Failed = 0; #Dropped = 13
+Target Time = 57.5; Load Intensity = 47.0; #Success = 29; #Failed = 0; #Dropped = 13
+Target Time = 58.5; Load Intensity = 48.0; #Success = 25; #Failed = 0; #Dropped = 19
+Target Time = 59.5; Load Intensity = 49.0; #Success = 19; #Failed = 0; #Dropped = 24
+Target Time = 60.5; Load Intensity = 50.0; #Success = 25; #Failed = 0; #Dropped = 23
+Target Time = 61.5; Load Intensity = 51.0; #Success = 30; #Failed = 0; #Dropped = 18
+Target Time = 62.5; Load Intensity = 52.0; #Success = 29; #Failed = 0; #Dropped = 17
+Target Time = 63.5; Load Intensity = 52.0; #Success = 26; #Failed = 0; #Dropped = 22
+Target Time = 64.5; Load Intensity = 53.0; #Success = 18; #Failed = 0; #Dropped = 29
+Target Time = 65.5; Load Intensity = 54.0; #Success = 25; #Failed = 0; #Dropped = 24
+Target Time = 66.5; Load Intensity = 55.0; #Success = 30; #Failed = 0; #Dropped = 24
+Target Time = 67.5; Load Intensity = 56.0; #Success = 29; #Failed = 0; #Dropped = 22
+Target Time = 68.5; Load Intensity = 57.0; #Success = 25; #Failed = 0; #Dropped = 23
+Target Time = 69.5; Load Intensity = 57.0; #Success = 19; #Failed = 0; #Dropped = 35
+Target Time = 70.5; Load Intensity = 58.0; #Success = 25; #Failed = 0; #Dropped = 29
+Target Time = 71.5; Load Intensity = 59.0; #Success = 30; #Failed = 0; #Dropped = 29
+Target Time = 72.5; Load Intensity = 60.0; #Success = 29; #Failed = 0; #Dropped = 27
+Target Time = 73.5; Load Intensity = 61.0; #Success = 26; #Failed = 0; #Dropped = 31
+Target Time = 74.5; Load Intensity = 62.0; #Success = 18; #Failed = 0; #Dropped = 34
+Target Time = 75.5; Load Intensity = 62.0; #Success = 25; #Failed = 0; #Dropped = 36
+Target Time = 76.5; Load Intensity = 63.0; #Success = 30; #Failed = 0; #Dropped = 31
+Target Time = 77.5; Load Intensity = 64.0; #Success = 29; #Failed = 0; #Dropped = 29
+Target Time = 78.5; Load Intensity = 65.0; #Success = 25; #Failed = 0; #Dropped = 35
+Target Time = 79.5; Load Intensity = 66.0; #Success = 19; #Failed = 0; #Dropped = 39
+Target Time = 80.5; Load Intensity = 67.0; #Success = 25; #Failed = 0; #Dropped = 42
+Target Time = 81.5; Load Intensity = 67.0; #Success = 29; #Failed = 0; #Dropped = 32
+Target Time = 82.5; Load Intensity = 68.0; #Success = 30; #Failed = 0; #Dropped = 36
+Target Time = 83.5; Load Intensity = 69.0; #Success = 25; #Failed = 0; #Dropped = 37
+Target Time = 84.5; Load Intensity = 70.0; #Success = 19; #Failed = 0; #Dropped = 48
+Target Time = 85.5; Load Intensity = 71.0; #Success = 25; #Failed = 0; #Dropped = 44
+Target Time = 86.5; Load Intensity = 72.0; #Success = 30; #Failed = 0; #Dropped = 39
+Target Time = 87.5; Load Intensity = 72.0; #Success = 29; #Failed = 0; #Dropped = 35
+Target Time = 88.5; Load Intensity = 73.0; #Success = 25; #Failed = 0; #Dropped = 44
+Target Time = 89.5; Load Intensity = 74.0; #Success = 19; #Failed = 0; #Dropped = 50
+Target Time = 90.5; Load Intensity = 75.0; #Success = 25; #Failed = 0; #Dropped = 49
+Target Time = 91.5; Load Intensity = 76.0; #Success = 29; #Failed = 0; #Dropped = 39
+Target Time = 92.5; Load Intensity = 77.0; #Success = 30; #Failed = 0; #Dropped = 48
+Target Time = 93.5; Load Intensity = 77.0; #Success = 25; #Failed = 0; #Dropped = 45
+Target Time = 94.5; Load Intensity = 78.0; #Success = 19; #Failed = 0; #Dropped = 53
+Target Time = 95.5; Load Intensity = 79.0; #Success = 25; #Failed = 0; #Dropped = 52
+Target Time = 96.5; Load Intensity = 80.0; #Success = 29; #Failed = 0; #Dropped = 46
+Target Time = 97.5; Load Intensity = 81.0; #Success = 30; #Failed = 0; #Dropped = 50
+Target Time = 98.5; Load Intensity = 82.0; #Success = 25; #Failed = 0; #Dropped = 50
+Target Time = 99.5; Load Intensity = 82.0; #Success = 19; #Failed = 0; #Dropped = 56
+Target Time = 100.5; Load Intensity = 83.0; #Success = 25; #Failed = 0; #Dropped = 57
+Target Time = 101.5; Load Intensity = 84.0; #Success = 29; #Failed = 0; #Dropped = 49
+Target Time = 102.5; Load Intensity = 85.0; #Success = 30; #Failed = 0; #Dropped = 55
+Target Time = 103.5; Load Intensity = 86.0; #Success = 25; #Failed = 0; #Dropped = 53
+Target Time = 104.5; Load Intensity = 87.0; #Success = 19; #Failed = 0; #Dropped = 64
+Target Time = 105.5; Load Intensity = 87.0; #Success = 25; #Failed = 0; #Dropped = 60
+Target Time = 106.5; Load Intensity = 88.0; #Success = 29; #Failed = 0; #Dropped = 53
+Target Time = 107.5; Load Intensity = 89.0; #Success = 30; #Failed = 0; #Dropped = 57
+Target Time = 108.5; Load Intensity = 90.0; #Success = 25; #Failed = 0; #Dropped = 59
+Target Time = 109.5; Load Intensity = 91.0; #Success = 19; #Failed = 0; #Dropped = 67
+Target Time = 110.5; Load Intensity = 92.0; #Success = 25; #Failed = 0; #Dropped = 64
+Target Time = 111.5; Load Intensity = 92.0; #Success = 29; #Failed = 0; #Dropped = 58
+Target Time = 112.5; Load Intensity = 93.0; #Success = 30; #Failed = 0; #Dropped = 62
+Target Time = 113.5; Load Intensity = 94.0; #Success = 25; #Failed = 0; #Dropped = 63
+Target Time = 114.5; Load Intensity = 95.0; #Success = 19; #Failed = 0; #Dropped = 68
+Target Time = 115.5; Load Intensity = 96.0; #Success = 25; #Failed = 0; #Dropped = 72
+Target Time = 116.5; Load Intensity = 97.0; #Success = 29; #Failed = 0; #Dropped = 62
+Target Time = 117.5; Load Intensity = 97.0; #Success = 30; #Failed = 0; #Dropped = 66
+Target Time = 118.5; Load Intensity = 98.0; #Success = 25; #Failed = 0; #Dropped = 66
+Target Time = 119.5; Load Intensity = 99.0; #Success = 19; #Failed = 0; #Dropped = 74
+Target Time = 120.5; Load Intensity = 0.0; #Success = 25; #Failed = 0; #Dropped = 73
+Target Time = 121.5; Load Intensity = 0.0; #Success = 29; #Failed = 0; #Dropped = 67
+Target Time = 122.5; Load Intensity = 0.0; #Success = 30; #Failed = 0; #Dropped = 69
+Target Time = 123.5; Load Intensity = 0.0; #Success = 25; #Failed = 0; #Dropped = 70
+Target Time = 124.5; Load Intensity = 0.0; #Success = 19; #Failed = 0; #Dropped = 78
+Target Time = 125.5; Load Intensity = 0.0; #Success = 25; #Failed = 0; #Dropped = 6
+Target Time = 126.5; Load Intensity = 0.0; #Success = 29; #Failed = 0; #Dropped = 0
+Target Time = 127.5; Load Intensity = 0.0; #Success = 30; #Failed = 0; #Dropped = 0
+Target Time = 128.5; Load Intensity = 0.0; #Success = 25; #Failed = 0; #Dropped = 0
+Target Time = 129.5; Load Intensity = 0.0; #Success = 19; #Failed = 0; #Dropped = 0
+Workload finished.
+Log finished.

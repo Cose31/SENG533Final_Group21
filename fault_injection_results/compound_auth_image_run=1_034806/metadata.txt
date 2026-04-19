@@ -1,0 +1,16 @@
+scenario=compound_auth_image
+fault_type=multi_stop
+fault_target=docker_auth_1,docker_image_1
+fault_param=
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+fault_start_ts=1776138720226
+fault_end_ts=1776138755413
+recovery_time_ms=NEVER
+availability=51.22%
+up_count=21
+down_count=13
+degraded_count=7
+total_probes=41

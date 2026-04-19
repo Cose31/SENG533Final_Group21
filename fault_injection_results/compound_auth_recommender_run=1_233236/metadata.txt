@@ -1,0 +1,16 @@
+scenario=compound_auth_recommender
+fault_type=multi_stop
+fault_target=docker_auth_1,docker_recommender_1
+fault_param=
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+fault_start_ts=1776123389508
+fault_end_ts=1776123424355
+recovery_time_ms=NEVER
+availability=47.62%
+up_count=20
+down_count=10
+degraded_count=12
+total_probes=42

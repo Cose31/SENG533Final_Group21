@@ -1,0 +1,17 @@
+scenario=single_service_auth
+fault_type=stop
+fault_target=docker_auth_1
+fault_param=
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+fault_start_ts=1776137261730
+fault_end_ts=1776137284774
+recovery_time_ms=60144
+recovery_ts=1776137344918
+availability=58.54%
+up_count=24
+down_count=17
+degraded_count=0
+total_probes=41

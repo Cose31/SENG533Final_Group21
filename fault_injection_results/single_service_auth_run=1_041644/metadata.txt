@@ -1,0 +1,8 @@
+scenario=single_service_auth
+fault_type=stop
+fault_target=docker_auth_1
+fault_param=
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64

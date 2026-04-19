@@ -1,0 +1,13 @@
+scenario=single_service_recommender
+fault_type=stop
+fault_target=docker_recommender_1
+fault_param=
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+availability=50.00%
+up_count=1
+down_count=1
+degraded_count=0
+total_probes=2

@@ -1,0 +1,17 @@
+scenario=database_down
+fault_type=db_stop
+fault_target=docker_db_1
+fault_param=
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+fault_start_ts=1776116850073
+fault_end_ts=1776116865495
+recovery_time_ms=16435
+recovery_ts=1776116881930
+availability=58.82%
+up_count=20
+down_count=14
+degraded_count=0
+total_probes=34

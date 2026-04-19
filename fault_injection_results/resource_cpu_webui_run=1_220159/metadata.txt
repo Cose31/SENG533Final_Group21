@@ -1,0 +1,16 @@
+scenario=resource_cpu_webui
+fault_type=throttle_cpu
+fault_target=docker_webui_1
+fault_param=0.3
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+fault_start_ts=1776117954094
+fault_end_ts=1776117964393
+recovery_time_ms=NEVER
+availability=42.42%
+up_count=14
+down_count=19
+degraded_count=0
+total_probes=33

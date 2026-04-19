@@ -1,0 +1,17 @@
+scenario=resource_cpu_db
+fault_type=throttle_cpu
+fault_target=docker_db_1
+fault_param=0.3
+fault_inject_at=15s
+fault_duration=10s
+total_duration=130s
+hlg_threads=64
+fault_start_ts=1776140716853
+fault_end_ts=1776140727199
+recovery_time_ms=1386
+recovery_ts=1776140728585
+availability=67.44%
+up_count=29
+down_count=14
+degraded_count=0
+total_probes=43
