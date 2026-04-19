@@ -1,0 +1,18 @@
+# Linux ignores
+.bash_logout
+.bash_profile
+.bashrc
+.profile
+.sudo_as_admin_successful
+.viminfo
+.ssh/
+.gnupg/
+.cache/
+.vim/
+*.log
+
+# Ignore results directories inside scripts
+scripts/results/
+scripts/*results*/
+scripts/**/results/
+scripts/**/db_var_results/
