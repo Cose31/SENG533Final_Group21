@@ -1,7 +1,0 @@
-docker_persistence_1,5.64%,256.5MiB / 1.946GiB
-docker_image_1,3.71%,443.5MiB / 1.946GiB
-docker_db_1,0.17%,23.54MiB / 1.946GiB
-docker_auth_1,5.19%,207.9MiB / 1.946GiB
-docker_recommender_1,12.32%,214MiB / 1.946GiB
-docker_registry_1,1.35%,45.59MiB / 1.946GiB
-docker_webui_1,17.66%,436.6MiB / 1.946GiB

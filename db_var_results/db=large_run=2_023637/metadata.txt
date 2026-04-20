@@ -1,6 +1,0 @@
-db_mode=large
-hlg_agent=10.1.3.143
-hlg_threads=256
-hlg_arrival_csv=/home/ubuntu/TeaStore/examples/httploadgenerator/increasingLowIntensity.csv
-hlg_lua=/home/ubuntu/TeaStore/examples/httploadgenerator/teastore_browse.lua
-p50=46.00ms p95=94.00ms p99=98.00ms total_requests=130
