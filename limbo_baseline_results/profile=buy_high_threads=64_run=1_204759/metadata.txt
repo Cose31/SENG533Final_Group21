@@ -1,8 +1,0 @@
-profile=buy_high
-arrival_csv=/home/ubuntu/TeaStore/examples/httploadgenerator/increasingHighIntensity.csv
-lua_script=/home/ubuntu/TeaStore/examples/httploadgenerator/teastore_buy.lua
-threads=64
-run=1
-total_duration=130s
-timestamp=Sun Apr 19 20:50:41 UTC 2026
-hlg_agent=10.1.3.143:24226
