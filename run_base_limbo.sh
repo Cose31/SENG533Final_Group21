@@ -9,20 +9,20 @@ RESULTS_DIR="$SCRIPT_DIR/limbo_baseline_results"
 HLG_JAR="$SCRIPT_DIR/httploadgenerator.jar"
 HLG_AGENT_IP="10.1.3.143"
 HLG_AGENT_PORT="24226"
-HLG_TIMEOUT=5000
+HLG_TIMEOUT=10000
 TOTAL_DURATION=130
 
 # Workload profiles: name|arrival_csv|lua_script
 WORKLOAD_PROFILES=(
-  "browse_low|$TEASTORE_DIR/examples/httploadgenerator/increasingLowIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_browse.lua"
+  #"browse_low|$TEASTORE_DIR/examples/httploadgenerator/increasingLowIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_browse.lua"
   #"browse_med|$TEASTORE_DIR/examples/httploadgenerator/increasingMedIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_browse.lua"
   #"browse_high|$TEASTORE_DIR/examples/httploadgenerator/increasingHighIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_browse.lua"
   #"buy_low|$TEASTORE_DIR/examples/httploadgenerator/increasingLowIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_buy.lua"
   #"buy_med|$TEASTORE_DIR/examples/httploadgenerator/increasingMedIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_buy.lua"
-  #"buy_high|$TEASTORE_DIR/examples/httploadgenerator/increasingHighIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_buy.lua"
+  "buy_high|$TEASTORE_DIR/examples/httploadgenerator/increasingHighIntensity.csv|$TEASTORE_DIR/examples/httploadgenerator/teastore_buy.lua"
 )
 
-THREAD_LEVELS=(128)
+THREAD_LEVELS=(256)
 REPEATS=1
 
 mkdir -p $RESULTS_DIR
