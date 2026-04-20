@@ -1,5 +1,0 @@
-workload=mixed
-vus=50
-run=1
-duration=2m
-timestamp=Sun Apr 12 02:14:40 UTC 2026

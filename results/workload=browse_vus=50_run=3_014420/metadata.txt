@@ -1,5 +1,0 @@
-workload=browse
-vus=50
-run=3
-duration=2m
-timestamp=Sun Apr 12 01:46:31 UTC 2026

@@ -1,5 +1,0 @@
-workload=trans
-vus=50
-run=3
-duration=2m
-timestamp=Sun Apr 12 02:10:21 UTC 2026
